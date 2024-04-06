@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>410367217486-gf4jh8igrdjk39bm8epam6mp7kc3pu1h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.410367217486-gf4jh8igrdjk39bm8epam6mp7kc3pu1h</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>410367217486-04i246u967eu7qqfib2t8v2mds4mq9qb.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBC43n_K_gjlN8jrmuw1MDQ0COD-BXTe1w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>410367217486</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dentosupport.mini</string>
+	<key>PROJECT_ID</key>
+	<string>dento-c5a3d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dento-c5a3d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:410367217486:ios:a5af37f11491ec3fcb181f</string>
+</dict>
+</plist>

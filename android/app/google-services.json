@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "410367217486",
+    "project_id": "dento-c5a3d",
+    "storage_bucket": "dento-c5a3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410367217486:android:8311a954abb68ef7cb181f",
+        "android_client_info": {
+          "package_name": "com.dentosupport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410367217486-g3nm6q1qarv3ecqsdphpnonkn8o4s0vf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9dejUMEQLGnebFdZtYHccuZmQDT-9s_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410367217486-g3nm6q1qarv3ecqsdphpnonkn8o4s0vf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "410367217486-akffvh47rcpug41galhcgjgonv94fci3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dento.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
